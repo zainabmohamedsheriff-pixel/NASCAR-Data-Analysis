@@ -19,7 +19,6 @@ The project combines Python-based data analysis with an interactive Power BI das
 
 ## Dataset
 The project uses NASCAR driver statistics containing information related to driver performance.
-
 The data is organized into:
 
 - **Raw data**: the original dataset
