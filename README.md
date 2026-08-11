@@ -3,9 +3,6 @@
 <p align="center">
   <img src="images/NASCAR_Dashboard.png" alt="NASCAR Dashboard" width="900">
 </p>
-git add README.md
-git commit -m "Improve dashboard image layout"
-git push
 
 ## Project Overview
 This project analyzes NASCAR driver statistics to explore performance patterns, driver rankings, and trends across the available racing data.
