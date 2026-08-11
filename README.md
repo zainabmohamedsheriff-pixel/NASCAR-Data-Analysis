@@ -1,5 +1,7 @@
 # NASCAR Driver Analysis
 
+![NASCAR Dashboard](images/NASCAR_Dashboard.png)
+
 ## Project Overview
 This project analyzes NASCAR driver statistics to explore performance patterns, driver rankings, and trends across the available racing data.
 
